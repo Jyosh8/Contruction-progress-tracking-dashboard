@@ -1,3 +1,6 @@
+# Copyright (c) 2024 Jyosh8
+# Licensed under the MIT License (see LICENSE file for details)
+
 import streamlit as st
 
 # ✅ Set the page config FIRST before any other Streamlit commands

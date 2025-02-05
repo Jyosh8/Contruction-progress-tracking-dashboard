@@ -2,7 +2,7 @@ import os
 import git
 
 # Set your project path
-PROJECT_PATH = PROJECT_PATH = r"C:\python projects\construction"
+PROJECT_PATH = r"C:\python projects\construction"
 
 GITHUB_REPO_URL = "https://github.com/Jyosh8/Contruction-progress-tracking-dashboard.git"
 
